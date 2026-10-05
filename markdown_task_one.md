@@ -10,7 +10,7 @@ Photography allows me to capture *beautiful moments* and **tell stories** withou
 
 Here's a quick look at what i use:
 
-- **camera:** Canon EOS R10
+- **Camera:** Canon EOS R10
 - *Lens:* 50mm f/1.8
 - **Editing Software:** Lightroom
 - *Tripod:* Manfrotto Compact Action
