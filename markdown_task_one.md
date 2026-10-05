@@ -22,4 +22,4 @@ Here's a quick look at what i use:
 
 ## My Favorite Command
 
-`git add .`-This command saves all my photo projects
+`git add .` -This command saves all my photo projects
