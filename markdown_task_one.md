@@ -2,8 +2,10 @@
 
 ## Why I Love it
 
-Photography allows me to capture *beautiful moments* and tell stories without words. I started learning photography when i was in middle school
+Photography allows me to capture *beautiful moments* and **tell stories** without words. I started learning photography when I was in middle school.
+
 ---
+
 ## My Gear
 
 Here's a quick look at what i use:
